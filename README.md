@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <img class="devicon-canva-original colored"></img>
 <img class="devicon-c-plain colored"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
           
           
           
