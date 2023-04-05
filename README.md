@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img class="devicon-canva-original colored"></img>
-<img class="devicon-c-plain colored"></img>
+<i class="devicon-canva-original colored"></i>
+<i class="devicon-c-plain colored"></i>
           
           
           
